@@ -1,0 +1,65 @@
+{
+  "appInfo" : {
+    "build" : "241.19416.15",
+    "buildDate" : "2024-10-16T12:40:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2025-04-02T19:10:01.572304302Z",
+    "os" : "Linux 6.11.0-21-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.12 17.0.12+1-b1207.37"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "git_test",
+    "times" : {
+      "scanningReason" : "changes in: \"JDK openjdk-22 /home/maksymsuvorov/.jdks/openjdk-22.0.2\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 1,
+      "creatingIteratorsTime" : 2172785,
+      "concurrentHandlingWallTimeWithoutPauses" : 2466548900,
+      "concurrentHandlingWallTimeWithPauses" : 2466548900,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 2462485856,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 945698079,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 1516483187,
+      "delayedPushPropertiesStageTime" : 3400711,
+      "indexExtensionsTime" : 289867958,
+      "dumbModeStart" : "2025-04-02T19:09:59.091445866Z",
+      "dumbWallTimeWithPauses" : 2478715683,
+      "dumbWallTimeWithoutPauses" : 2478715683,
+      "updatingStart" : "2025-04-02T19:09:59.086556521Z",
+      "updatingEnd" : "2025-04-02T19:10:01.570161549Z",
+      "totalWallTimeWithPauses" : 2483608068,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 2483608068
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 43703,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 43381
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "JDK openjdk-22 /home/maksymsuvorov/.jdks/openjdk-22.0.2",
+      "numberOfScannedFiles" : 43703,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 43381,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 1394696838,
+      "totalOneThreadTimeWithPauses" : 2462485856,
+      "iterationAndScannersApplicationTime" : 945698079,
+      "filesCheckTime" : 1516483187,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 285553463,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 289867958,
+      "roots" : [ ]
+    } ]
+  }
+}

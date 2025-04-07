@@ -1,0 +1,335 @@
+{
+  "pageCacheStats" : {
+    "cachedChannelsStatistics" : {
+      "hit" : 0,
+      "miss" : 0,
+      "load" : 106,
+      "capacity" : 400
+    },
+    "uncachedFileAccess" : 193,
+    "maxRegisteredFiles" : 586,
+    "maxCacheSizeInBytes" : 265314304,
+    "totalCachedSizeInBytes" : 31481856,
+    "pageHits" : 0,
+    "pageFastCacheHits" : 5764,
+    "pageLoadsAboveSizeThreshold" : 0,
+    "regularPageLoads" : 259,
+    "disposedBuffers" : 226,
+    "totalPageDisposalUs" : 2542,
+    "totalPageLoadUs" : 263739,
+    "totalPagesLoaded" : 259,
+    "capacityInBytes" : 503316478
+  },
+  "indexStorageStats" : {
+    "indexStoragesStats" : { }
+  },
+  "otherStorageStats" : {
+    "statsPerPhm" : {
+      "$USER_HOME$/renameCurrentCommitPlugin/build/idea-sandbox/system/frameworks/detection/git_.d963e70f/files" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 0,
+          "dataFileSizeInBytes" : 0,
+          "storageSizeInBytes" : 96,
+          "btreeStatistics" : {
+            "pages" : 0,
+            "elements" : 0,
+            "height" : 0,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 0,
+            "searchRequests" : 0,
+            "searchSteps" : 0,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 0
+          }
+        },
+        "valueStorageSizeInBytes" : 0
+      },
+      "$USER_HOME$/renameCurrentCommitPlugin/build/idea-sandbox/system/icon-cache/icon.db" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 204,
+          "dataFileSizeInBytes" : 3264,
+          "storageSizeInBytes" : 1760,
+          "btreeStatistics" : {
+            "pages" : 1,
+            "elements" : 204,
+            "height" : 1,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 1,
+            "searchRequests" : 2256,
+            "searchSteps" : 12,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 32768
+          }
+        },
+        "valueStorageSizeInBytes" : 641307
+      },
+      "$USER_HOME$/renameCurrentCommitPlugin/build/idea-sandbox/system/vcs-log/git__d963e70f_2801c853/index/committers.29" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 0,
+          "dataFileSizeInBytes" : -1,
+          "storageSizeInBytes" : 96,
+          "btreeStatistics" : {
+            "pages" : 0,
+            "elements" : 0,
+            "height" : 0,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 0,
+            "searchRequests" : 0,
+            "searchSteps" : 0,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 0
+          }
+        },
+        "valueStorageSizeInBytes" : 0
+      },
+      "$USER_HOME$/renameCurrentCommitPlugin/build/idea-sandbox/system/vcs-log/git__d963e70f_2801c853/index/messages.29" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 0,
+          "dataFileSizeInBytes" : -1,
+          "storageSizeInBytes" : 96,
+          "btreeStatistics" : {
+            "pages" : 1,
+            "elements" : 27,
+            "height" : 1,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 0,
+            "searchRequests" : 420,
+            "searchSteps" : 0,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 32768
+          }
+        },
+        "valueStorageSizeInBytes" : 279
+      },
+      "$USER_HOME$/renameCurrentCommitPlugin/build/idea-sandbox/system/vcs-log/git__d963e70f_2801c853/index/parents.29" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 0,
+          "dataFileSizeInBytes" : -1,
+          "storageSizeInBytes" : 96,
+          "btreeStatistics" : {
+            "pages" : 1,
+            "elements" : 27,
+            "height" : 1,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 0,
+            "searchRequests" : 405,
+            "searchSteps" : 0,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 32768
+          }
+        },
+        "valueStorageSizeInBytes" : 218
+      },
+      "$USER_HOME$/renameCurrentCommitPlugin/build/idea-sandbox/system/vcs-log/git__d963e70f_2801c853/index/paths.29.storage" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 0,
+          "dataFileSizeInBytes" : -1,
+          "storageSizeInBytes" : 96,
+          "btreeStatistics" : {
+            "pages" : 1,
+            "elements" : 1,
+            "height" : 1,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 0,
+            "searchRequests" : 69,
+            "searchSteps" : 0,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 32768
+          }
+        },
+        "valueStorageSizeInBytes" : 539
+      },
+      "$USER_HOME$/renameCurrentCommitPlugin/build/idea-sandbox/system/vcs-log/git__d963e70f_2801c853/index/renames-map.29" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 0,
+          "dataFileSizeInBytes" : 0,
+          "storageSizeInBytes" : 96,
+          "btreeStatistics" : {
+            "pages" : 0,
+            "elements" : 0,
+            "height" : 0,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 0,
+            "searchRequests" : 0,
+            "searchSteps" : 0,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 0
+          }
+        },
+        "valueStorageSizeInBytes" : 0
+      },
+      "$USER_HOME$/renameCurrentCommitPlugin/build/idea-sandbox/system/vcs-log/git__d963e70f_2801c853/index/timestamps.29" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 0,
+          "dataFileSizeInBytes" : -1,
+          "storageSizeInBytes" : 96,
+          "btreeStatistics" : {
+            "pages" : 1,
+            "elements" : 27,
+            "height" : 1,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 0,
+            "searchRequests" : 93,
+            "searchSteps" : 0,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 32768
+          }
+        },
+        "valueStorageSizeInBytes" : 535
+      },
+      "$USER_HOME$/renameCurrentCommitPlugin/build/idea-sandbox/system/vcs-log/git__d963e70f_2801c853/index/trigrams.29.storage" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 0,
+          "dataFileSizeInBytes" : -1,
+          "storageSizeInBytes" : 96,
+          "btreeStatistics" : {
+            "pages" : 1,
+            "elements" : 25,
+            "height" : 1,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 0,
+            "searchRequests" : 124,
+            "searchSteps" : 0,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 32768
+          }
+        },
+        "valueStorageSizeInBytes" : 383
+      },
+      "$USER_HOME$/renameCurrentCommitPlugin/build/idea-sandbox/system/vcs-log/git__d963e70f_2801c853/index/users.29.storage" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 0,
+          "dataFileSizeInBytes" : -1,
+          "storageSizeInBytes" : 96,
+          "btreeStatistics" : {
+            "pages" : 1,
+            "elements" : 1,
+            "height" : 1,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 0,
+            "searchRequests" : 69,
+            "searchSteps" : 0,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 32768
+          }
+        },
+        "valueStorageSizeInBytes" : 408
+      },
+      "$USER_HOME$/renameCurrentCommitPlugin/build/idea-sandbox/system/vcs-log/git__d963e70f_2801c853/index/users.idx.29" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 0,
+          "dataFileSizeInBytes" : -1,
+          "storageSizeInBytes" : 96,
+          "btreeStatistics" : {
+            "pages" : 1,
+            "elements" : 27,
+            "height" : 1,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 0,
+            "searchRequests" : 119,
+            "searchSteps" : 0,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 32768
+          }
+        },
+        "valueStorageSizeInBytes" : 238
+      }
+    },
+    "statsPerEnumerator" : {
+      "$USER_HOME$/renameCurrentCommitPlugin/build/idea-sandbox/system/vcs-log/git__d963e70f_2801c853/hashes/storage.8" : {
+        "collisions" : 0,
+        "values" : 27,
+        "dataFileSizeInBytes" : 702,
+        "storageSizeInBytes" : 96,
+        "btreeStatistics" : {
+          "pages" : 1,
+          "elements" : 27,
+          "height" : 1,
+          "moves" : 0,
+          "leafPages" : 1,
+          "maxSearchStepsInRequest" : 0,
+          "searchRequests" : 1349,
+          "searchSteps" : 0,
+          "pageCapacity" : 32768,
+          "sizeInBytes" : 32768
+        }
+      },
+      "$USER_HOME$/renameCurrentCommitPlugin/build/idea-sandbox/system/vcs-log/git__d963e70f_2801c853/index/users-ids.29" : {
+        "collisions" : 0,
+        "values" : 1,
+        "dataFileSizeInBytes" : 36,
+        "storageSizeInBytes" : 96,
+        "btreeStatistics" : {
+          "pages" : 1,
+          "elements" : 1,
+          "height" : 1,
+          "moves" : 0,
+          "leafPages" : 1,
+          "maxSearchStepsInRequest" : 0,
+          "searchRequests" : 6,
+          "searchSteps" : 0,
+          "pageCapacity" : 32768,
+          "sizeInBytes" : 32768
+        }
+      },
+      "$USER_HOME$/renameCurrentCommitPlugin/build/idea-sandbox/system/vcs-log/git__d963e70f_2801c853/refs/storage.10" : {
+        "collisions" : 0,
+        "values" : 0,
+        "dataFileSizeInBytes" : 0,
+        "storageSizeInBytes" : 96,
+        "btreeStatistics" : {
+          "pages" : 0,
+          "elements" : 0,
+          "height" : 0,
+          "moves" : 0,
+          "leafPages" : 1,
+          "maxSearchStepsInRequest" : 0,
+          "searchRequests" : 0,
+          "searchSteps" : 0,
+          "pageCapacity" : 32768,
+          "sizeInBytes" : 0
+        }
+      },
+      "$USER_HOME$/renameCurrentCommitPlugin/build/idea-sandbox/system/vcs-users/d963e70f.2" : {
+        "collisions" : 0,
+        "values" : 1,
+        "dataFileSizeInBytes" : 36,
+        "storageSizeInBytes" : 96,
+        "btreeStatistics" : {
+          "pages" : 1,
+          "elements" : 1,
+          "height" : 1,
+          "moves" : 0,
+          "leafPages" : 1,
+          "maxSearchStepsInRequest" : 0,
+          "searchRequests" : 35,
+          "searchSteps" : 0,
+          "pageCapacity" : 32768,
+          "sizeInBytes" : 32768
+        }
+      }
+    }
+  }
+}

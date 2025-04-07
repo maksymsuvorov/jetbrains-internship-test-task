@@ -1,0 +1,97 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CheckinProject">
+      <i c="1" l="1743685993231" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="8" l="1743921089933" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1744047636128" />
+    </e>
+    <e n="EditorEnter">
+      <i c="3" l="1743686103725" />
+    </e>
+    <e n="FindNext">
+      <i c="1" l="1743685934623" />
+    </e>
+    <e n="Git.Log.Branches.Change.Branch.Filter">
+      <i c="19" l="1743686085930" />
+    </e>
+    <e n="Git.Log.Branches.Navigate.Log.To.Selected.Branch">
+      <i c="3" l="1743665472790" />
+    </e>
+    <e n="Git.Log.Branches.Settings">
+      <i c="1" l="1743665316322" />
+    </e>
+    <e n="Git.Log.Hide.Branches">
+      <i c="1" l="1743665036402" />
+    </e>
+    <e n="Git.Reword.Commit">
+      <i c="1" l="1743685584705" />
+    </e>
+    <e n="GotoAction">
+      <i c="1" l="1743665518127" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="3" l="1743665356720" />
+    </e>
+    <e n="Vcs.Log.ChangesBrowser.PresentationSettings">
+      <i c="2" l="1743665294081" />
+    </e>
+    <e n="Vcs.Log.GoToRef">
+      <i c="1" l="1743665296373" />
+    </e>
+    <e n="Vcs.Log.PresentationSettings">
+      <i c="1" l="1743665177690" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="2" l="1743920977397" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$ClearThisConsoleAction">
+      <i c="1" l="1743686152833" />
+    </e>
+    <e n="com.intellij.ide.actions.CollapseAllAction">
+      <i c="1" l="1743665030338" />
+    </e>
+    <e n="com.intellij.ide.actions.ExpandAllAction">
+      <i c="2" l="1743665031423" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="2" l="1743686136167" />
+    </e>
+    <e n="com.intellij.notification.impl.NotificationComponent$MyActionGroup">
+      <i c="1" l="1743686129479" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="20" l="1744047873587" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1743684423929" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="2" l="1743665358503" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="6" l="1743921116406" />
+    </e>
+    <e n="com.intellij.tasks.context.BranchContextTracker$1">
+      <i c="1" l="1743686125072" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="2" l="1743686157072" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="2" l="1743665357906" />
+    </e>
+    <e n="com.intellij.vcs.log.ui.filter.BranchFilterPopupComponent$MyBranchPopupBuilder$BranchFilterAction">
+      <i c="1" l="1743665435281" />
+    </e>
+    <e n="git4idea.actions.GitCheckoutAction">
+      <i c="10" l="1744049365374" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
+      <i c="1" l="1743685666999" />
+    </e>
+  </component>
+</application>

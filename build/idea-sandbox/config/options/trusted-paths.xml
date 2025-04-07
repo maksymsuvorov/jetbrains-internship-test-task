@@ -1,0 +1,10 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/git_" value="true" />
+        <entry key="$USER_HOME$/git_test" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

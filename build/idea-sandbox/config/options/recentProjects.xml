@@ -1,0 +1,41 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/git_test">
+          <value>
+            <RecentProjectMetaInfo frameTitle="git_test – ~/git_test/file" projectWorkspaceId="2vAzy1dM3ngnQAukrysEHPIlTZg">
+              <option name="activationTimestamp" value="1743685976372" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.19416.15" />
+              <option name="buildTimestamp" value="1729082400000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="54" y="32" width="1866" height="1168" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1743622784887" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/git_">
+          <value>
+            <RecentProjectMetaInfo frameTitle="git_ – file" opened="true" projectWorkspaceId="2vPUs3DglOSUuHsdw9Pl8NDfVnm">
+              <option name="activationTimestamp" value="1744049372384" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.19416.15" />
+              <option name="buildTimestamp" value="1729082400000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="287" y="116" width="1401" height="1000" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1743920984771" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/git_" />
+  </component>
+</application>

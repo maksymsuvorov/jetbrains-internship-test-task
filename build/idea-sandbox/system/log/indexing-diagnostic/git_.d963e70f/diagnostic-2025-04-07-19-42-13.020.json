@@ -1,0 +1,140 @@
+{
+  "appInfo" : {
+    "build" : "241.19416.15",
+    "buildDate" : "2024-10-16T12:40:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2025-04-07T17:42:13.020371029Z",
+    "os" : "Linux 6.11.0-21-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.12 17.0.12+1-b1207.37"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 11,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "git_",
+    "times" : {
+      "scanningIds" : [ 0 ],
+      "contentLoadingVisibleTime" : 0,
+      "retrievingChangedDuringIndexingFilesTime" : 392356,
+      "separateApplyingIndexesVisibleTime" : 0,
+      "updatingStart" : "2025-04-07T17:42:12.844744865Z",
+      "updatingEnd" : "2025-04-07T17:42:12.9555122Z",
+      "totalWallTimeWithPauses" : 110764451,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbModeStart" : "2025-04-07T17:42:12.844744865Z",
+      "dumbWallTimeWithPauses" : 110764451,
+      "dumbWallTimeWithoutPauses" : 110764451,
+      "totalWallTimeWithoutPauses" : 110764451
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 1,
+      "numberOfNothingToWriteFiles" : 0
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 48477439,
+        "total" : 48477439
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 3292811,
+        "total" : 3292811
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 21,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 21,
+        "totalCpuTime" : 48477439
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'git_' (all roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 21,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 48477439,
+          "total" : 48477439
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ {
+      "language" : "TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 48477439,
+        "total" : 48477439
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 6585622,
+        "total" : 3292811
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 21,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 21,
+        "totalCpuTime" : 48477439
+      }
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 7385847,
+        "total" : 8235129
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 21,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 21,
+        "totalCpuTime" : 7385847
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 849282,
+        "total" : 8235129
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 21,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 21,
+        "totalCpuTime" : 849282
+      }
+    } ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 0,
+      "retrievingTime" : 392356
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'git_' (all roots)",
+      "totalNumberOfIndexedFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 0
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 0,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 0
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}
